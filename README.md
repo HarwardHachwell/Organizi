@@ -13,7 +13,7 @@ GitHub’s interface is user-friendly enough so even novice coders can take adva
 GitHub is so user-friendly, though, that some people even use GitHub to manage other types of projects – like writing books.
 Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.
 
-<li> Source from Kinsta <li/>
+<li> Source from Kinsta
 
 The information on Github is public and the platform is built for developers to share their newest creations.
 That's why I choose Github.
